@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let _c4_index = 0;
     // Время показа каждого текста в миллисекундах (2000 мс = 2 секунды)
-    const _t1_delay = 2000; 
+    const _t1_delay = 1000; 
 
     function _p5_next() {
         // Если предыдущий слайд активен, убираем его
